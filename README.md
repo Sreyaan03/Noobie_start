@@ -1,5 +1,4 @@
 # Noobie_start
-my first repo 
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinkin' of
